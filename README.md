@@ -154,6 +154,39 @@ python PDB_Comparator.py
 
 ---
 
+## 📥 How to Get More PDB Files
+
+### Download Additional Protein Structures
+
+You can download more PDB files from the official Protein Data Bank website:
+
+**Search for Structures:**
+https://www.rcsb.org/search
+
+**Download Instructions:**
+1. Search for your desired protein structure
+2. Click on the structure ID (e.g., 1A00, 1TIM, etc.)
+3. Click the "Download Files" button
+4. **Important:** Select "Legacy PDB Format" for download
+5. Save the .pdb file in the `examples/` directory
+
+**Example Structure Pages:**
+- https://www.rcsb.org/structure/1A00
+- https://www.rcsb.org/structure/1A01  
+- https://www.rcsb.org/structure/1TIM
+- https://www.rcsb.org/structure/5TIM
+- and more ...
+
+**3D Visualization (Optional):**
+You can also view the 3D structures online before downloading:
+- https://www.rcsb.org/3d-view/1A00
+- https://www.rcsb.org/3d-view/1A01
+- https://www.rcsb.org/3d-view/1TIM
+- https://www.rcsb.org/3d-view/5TIM
+- and more ...
+
+---
+
 ## 📜 License [ [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) ]
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
